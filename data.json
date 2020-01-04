@@ -1,0 +1,188 @@
+{
+  "array": [
+    {
+      "images": [
+        {
+          "path": "./public/cards/upload/1_56d096665a025.jpeg",
+          "filesize": "",
+          "filetype": "",
+          "fileorigname": "",
+          "paramname": ""
+        },
+        {
+          "path": "./public/cards/upload/1_56d096665a0d1.jpeg",
+          "filesize": "",
+          "filetype": "",
+          "fileorigname": "",
+          "paramname": ""
+        },
+        {
+          "path": "./public/cards/upload/1_5b6f00d97fe5a_taskImage.jpeg",
+          "filesize": "268130",
+          "filetype": "image/jpeg",
+          "fileorigname": "Flyer A5.jpg",
+          "paramname": "taskImage"
+        },
+        {
+          "path": "./public/cards/upload/1_5b6f116f595dc_taskImage.jpeg",
+          "filesize": "2124365",
+          "filetype": "image/jpeg",
+          "fileorigname": "handzettel.jpg",
+          "paramname": "taskImage"
+        },
+        {
+          "path": "./public/cards/upload/1_5b6f2e692294c_taskImage.jpeg",
+          "filesize": "293442",
+          "filetype": "image/jpeg",
+          "fileorigname": "4_5b519fc252838_memoryImage_images.jpeg",
+          "paramname": "taskImage"
+        }
+      ],
+      "priority": "5",
+      "name": "test123",
+      "task": "asdasd",
+      "description": "asdasdasasdasdasdasd",
+      "duration": "12",
+      "id": "1",
+      "active": "true",
+      "originPackage": {
+        "__isInitialized__": "true",
+        "id": "1",
+        "packageName": "Test123",
+        "creator": {
+          "id": "1",
+          "userName": "admin@bouncingbytes",
+          "fullName": "Fabian Hackhofer",
+          "firstName": "Fabian",
+          "lastName": "Hackhofer",
+          "accountName": "bouncingbytes",
+          "email": "f.hackhofer@bouncingbytes.at"
+        },
+        "deleted": "false",
+        "active": "true",
+        "isPrivate": "true",
+        "isPublic": "false"
+      }
+    },
+    {
+      "images": [
+        {
+          "path": "./public/cards/upload/2_56d096965ed6f.jpeg",
+          "filesize": null,
+          "filetype": null,
+          "fileorigname": null,
+          "paramname": null
+        },
+        {
+          "path": "./public/cards/upload/2_56d096965ee1d.jpeg",
+          "filesize": null,
+          "filetype": null,
+          "fileorigname": null,
+          "paramname": null
+        }
+      ],
+      "priority": "5",
+      "name": "asdasd",
+      "question": "asdasdasdasd",
+      "answer1": "1",
+      "answer2": "12",
+      "answer3": "231",
+      "explanation": "asdasdas",
+      "answer2right": "false",
+      "answer3right": "true",
+      "answer1right": "false"
+    },
+    {
+      "priority": "1",
+      "name": "M\u00e4nnliches Nomen",
+      "question": "Bestimme den Fall der W\u00f6rter zwischen den Sternchen.\n*Der Onkel* holt die Mutter ab.",
+      "answer1": "1. FALL (Nominativ)",
+      "answer2": "3. FALL (Dativ)",
+      "answer3": "4. FALL (Akkusativ)",
+      "answer1right": "true",
+      "explanation": "1. FALL (Nominativ)",
+      "images": []
+    },
+    {
+      "priority": "1",
+      "name": "M\u00e4nnliches Nomen",
+      "question": "Bestimme den Fall der W\u00f6rter zwischen den Sternchen.\nIch gebe der Gro\u00dfmutter *den Ring*.",
+      "answer1": "3. FALL (Dativ)",
+      "answer2": "1. FALL (Nominativ)",
+      "answer3": "4. FALL (Akkusativ)",
+      "answer3right": "true",
+      "explanation": "4. FALL (Akkusativ)",
+      "images": []
+    },
+    {
+      "priority": "1",
+      "name": "M\u00e4nnliches Nomen",
+      "question": "Bestimme den Fall der W\u00f6rter zwischen den Sternchen.\nIch gebe *dem G\u00e4rtner* die Schaufel.",
+      "answer1": "1. FALL (Nominativ)",
+      "answer2": "3. FALL (Dativ)",
+      "answer3": "1. FALL (Nominativ)",
+      "answer2right": "true",
+      "explanation": "3. FALL (Dativ)",
+      "images": []
+    },
+    {
+      "priority": "1",
+      "question": "Bestimme den Fall der W\u00f6rter zwischen den Sternchen.\nSabine h\u00f6rt *dem Vater* gut zu.",
+      "answer1": "1. FALL (Nominativ)",
+      "answer2": "3. FALL (Dativ)",
+      "answer3": "4. FALL (Akkusativ)",
+      "answer2right": "true",
+      "explanation": "3. FALL (Dativ)",
+      "name": "M\u00e4nnliches Nomen",
+      "images": []
+    },
+    {
+      "priority": "1",
+      "name": "M\u00e4nnliches Nomen",
+      "question": "Bestimme den Fall der W\u00f6rter zwischen den Sternchen.\nDas ist die Tasche *des Bruders*.",
+      "answer1": "2. FALL (Genitiv)",
+      "answer2": "1. FALL (Nominativ)",
+      "answer3": "4. FALL (Akkusativ)",
+      "answer1right": "true",
+      "explanation": "2. FALL (Genitiv)",
+      "images": []
+    },
+    {
+      "priority": "1",
+      "name": "M\u00e4nnliches Nomen",
+      "question": "Bestimme den Fall der W\u00f6rter zwischen den Sternchen.\n*Der Mann* hat die Getr\u00e4nkedose in den Mistk\u00fcbel geworfen.",
+      "answer1": "1. FALL (Nominativ)",
+      "answer2": "2. FALL (Genitiv)",
+      "answer3": "4. FALL (Akkusativ)",
+      "answer2right": "false",
+      "answer1right": "false",
+      "answer3right": "true",
+      "explanation": "4. FALL (Akkusativ)",
+      "images": []
+    },
+    {
+      "priority": "1",
+      "name": "M\u00e4nnliches Nomen",
+      "question": "Bestimme den Fall der W\u00f6rter zwischen den Sternchen.\nDer Buntstift *des Sch\u00fclers* liegt auf dem Tisch.",
+      "answer1": "1. FALL (Nominativ)",
+      "answer2": "3. FALL (Dativ)",
+      "answer3": "2. FALL (Genitiv)",
+      "answer3right": "true",
+      "explanation": "2. FALL (Genitiv)",
+      "images": []
+    },
+    {
+      "priority": "1",
+      "name": "M\u00e4nnliches Nomen",
+      "question": "Bestimme den Fall der W\u00f6rter zwischen den Sternchen.\nMaria gibt *dem Vater* einen Kuss auf die Wange.",
+      "answer1": "3. FALL (Dativ)",
+      "answer2": "1. FALL (Nominativ)",
+      "answer3": "2. FALL (Genitiv)",
+      "answer1right": "true",
+      "explanation": "3. FALL (Dativ)",
+      "images": []
+    },
+    {"description":"Suchen Sie die gleichen Bildpaare.","images":[{"path":".\/public\/cards\/upload\/6789_5b0e88b72589b_memoryImage.jpeg","filesize":"108103","filetype":"image\/jpeg","fileorigname":"previewH696IRIL.jpg","paramname":"memoryImage"},{"path":".\/public\/cards\/upload\/6789_5b0e88b725a3b_memoryImage.jpeg","filesize":"86747","filetype":"image\/jpeg","fileorigname":"previewJKFF0P48.jpg","paramname":"memoryImage"},{"path":".\/public\/cards\/upload\/6789_5b0e88b725af3_memoryImage.jpeg","filesize":"56026","filetype":"image\/jpeg","fileorigname":"previewQFOTTD19.jpg","paramname":"memoryImage"},{"path":".\/public\/cards\/upload\/6789_5b0e88b725b9d_memoryImage.jpeg","filesize":"2452842","filetype":"image\/jpeg","fileorigname":"Eggenberg.jpg","paramname":"memoryImage"},{"path":".\/public\/cards\/upload\/6789_5b0e88b725c34_memoryImage.jpeg","filesize":"2172983","filetype":"image\/jpeg","fileorigname":"Riegersburg1.jpg","paramname":"memoryImage"}],"name":"Schl\u00f6sser und Burgen schwierig","maxDuration":"300","pairs":"5"},
+        {"description":"Suchen Sie die gleichen Bildpaare.","images":[{"path":".\/public\/cards\/upload\/6790_5b0e93e86ea31_memoryImage.jpeg","filesize":"2163155","filetype":"image\/jpeg","fileorigname":"Eisblume.jpg","paramname":"memoryImage"},{"path":".\/public\/cards\/upload\/6790_5b0e93e86eca3_memoryImage.jpeg","filesize":"2180707","filetype":"image\/jpeg","fileorigname":"Blitz.jpg","paramname":"memoryImage"},{"path":".\/public\/cards\/upload\/6790_5b0e93e86ed7f_memoryImage.jpeg","filesize":"1720740","filetype":"image\/jpeg","fileorigname":"Schneee.jpg","paramname":"memoryImage"},{"path":".\/public\/cards\/upload\/6790_5b0e93e86ee12_memoryImage.jpeg","filesize":"1375024","filetype":"image\/jpeg","fileorigname":"Sturmpalme.jpg","paramname":"memoryImage"},{"path":".\/public\/cards\/upload\/6790_5b17d5c250426_memoryImage.jpeg","filesize":"2476537","filetype":"image\/jpeg","fileorigname":"iStock_000000147012_Medium.jpg","paramname":"memoryImage"}],"name":"Naturph\u00e4nomene schwierig","maxDuration":"300","pairs":"5"}
+  ]
+}
